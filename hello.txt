@@ -1,3 +1,6 @@
+// For command line git tutorial
+// GitHub modification
+
 hello world
 Tell Your World
 Tell his World
